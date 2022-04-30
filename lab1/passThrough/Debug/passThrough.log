@@ -1,0 +1,31 @@
+﻿  Building 'passThrough' with toolset 'WindowsKernelModeDriver10.0' and the 'Universal' target platform.
+  Stamping Debug\passThrough.inf
+  Stamping [Version] section with DriverVer=04/18/2022,22.19.59.414
+C:\Users\Владимир\Desktop\МПУ\3 курс\Разработка и эксплуатация защищенных автоматизированных систем\lab1\passThrough\passThrough.inf(8-8): warning 1324: [Version] section should specify PnpLockdown=1.
+C:\Users\Владимир\Desktop\МПУ\3 курс\Разработка и эксплуатация защищенных автоматизированных систем\lab1\passThrough\passThrough.inf(74-74): warning 1205: Section [MiniFilter.DriverFiles] referenced from DelFiles and CopyFiles directive.
+  aes.c
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.29.30133\include\vcruntime.h(61,26): error C2220: следующее предупреждение рассматривается как ошибка
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.29.30133\include\vcruntime.h(61,26): warning C4083: требуется ")"; обнаружен идентификатор "_VCRUNTIME_DISABLED_WARNINGS"
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.29.30133\include\vcruntime.h(111,1): warning C4005: _CRT_STRINGIZE: изменение макроопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\km\crt\crtdefs.h(85): message : см. предыдущее определение "_CRT_STRINGIZE"
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.29.30133\include\vcruntime.h(114,1): warning C4005: _CRT_WIDE: изменение макроопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\km\crt\crtdefs.h(88): message : см. предыдущее определение "_CRT_WIDE"
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.29.30133\include\vcruntime.h(155,1): warning C4005: __CRTDECL: изменение макроопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\km\crt\crtdefs.h(640): message : см. предыдущее определение "__CRTDECL"
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.29.30133\include\stdint.h(16,26): warning C4083: требуется ")"; обнаружен идентификатор "_VCRUNTIME_DISABLED_WARNINGS"
+  passThrough.c
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.29.30133\include\vcruntime.h(61,26): error C2220: следующее предупреждение рассматривается как ошибка
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.29.30133\include\vcruntime.h(61,26): warning C4083: требуется ")"; обнаружен идентификатор "_VCRUNTIME_DISABLED_WARNINGS"
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.29.30133\include\vcruntime.h(111,1): warning C4005: _CRT_STRINGIZE: изменение макроопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\km\crt\crtdefs.h(85): message : см. предыдущее определение "_CRT_STRINGIZE"
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.29.30133\include\vcruntime.h(114,1): warning C4005: _CRT_WIDE: изменение макроопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\km\crt\crtdefs.h(88): message : см. предыдущее определение "_CRT_WIDE"
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.29.30133\include\vcruntime.h(155,1): warning C4005: __CRTDECL: изменение макроопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\km\crt\crtdefs.h(640): message : см. предыдущее определение "__CRTDECL"
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.29.30133\include\stdint.h(16,26): warning C4083: требуется ")"; обнаружен идентификатор "_VCRUNTIME_DISABLED_WARNINGS"
+C:\Users\Владимир\Desktop\МПУ\3 курс\Разработка и эксплуатация защищенных автоматизированных систем\lab1\passThrough\passThrough.c(906,35): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Владимир\Desktop\МПУ\3 курс\Разработка и эксплуатация защищенных автоматизированных систем\lab1\passThrough\passThrough.c(935,39): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Владимир\Desktop\МПУ\3 курс\Разработка и эксплуатация защищенных автоматизированных систем\lab1\passThrough\passThrough.c(1002,1): error C2143: синтаксическая ошибка: отсутствие ";" перед "{"
+C:\Users\Владимир\Desktop\МПУ\3 курс\Разработка и эксплуатация защищенных автоматизированных систем\lab1\passThrough\passThrough.c(1034,1): error C2143: синтаксическая ошибка: отсутствие ";" перед "{"
+C:\Users\Владимир\Desktop\МПУ\3 курс\Разработка и эксплуатация защищенных автоматизированных систем\lab1\passThrough\passThrough.c(867): fatal error C1075: "{": не найдена несоответствующая лексема
+  Создание кода...

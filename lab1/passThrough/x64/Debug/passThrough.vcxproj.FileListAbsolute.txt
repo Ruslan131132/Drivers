@@ -1,0 +1,3 @@
+C:\Users\Владимир\Desktop\МПУ\3 курс\Разработка и эксплуатация защищенных автоматизированных систем\lab1\passThrough\x64\Debug\passThrough.sys
+C:\lab1\passThrough\x64\Debug\passThrough.sys
+C:\Users\ruslan\Downloads\lab1\lab1\passThrough\x64\Debug\passThrough.sys
