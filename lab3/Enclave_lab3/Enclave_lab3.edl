@@ -1,0 +1,9 @@
+//encrypt description language
+//сюда пишем, какие функции из анклава импортируются
+enclave {
+    trusted {
+        /* define ECALLs here. */
+        public void getElementByIndex([out, size=len] char* buffer, size_t len, size_t index);
+    };
+
+};

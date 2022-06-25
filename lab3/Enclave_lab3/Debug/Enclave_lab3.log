@@ -1,0 +1,3 @@
+﻿  Creating proxy/bridge routines
+  Системе не удается найти указанный путь.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets(241,5): error MSB8066: пользовательская сборка для "Enclave_lab3.edl" завершила работу с кодом 3.

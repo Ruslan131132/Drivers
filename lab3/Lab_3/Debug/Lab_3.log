@@ -1,0 +1,4 @@
+﻿  Lab_3.cpp
+D:\Lab_3\Lab_3.cpp(55,27): error C2065: eid: необъявленный идентификатор
+D:\Lab_3\Lab_3.cpp(68,5): error C2084: функция "int main(void)" уже имеет текст реализации
+D:\Lab_3\Lab_3.cpp(32): message : см. предыдущее определение "main"
