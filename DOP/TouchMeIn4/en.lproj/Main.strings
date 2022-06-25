@@ -1,0 +1,36 @@
+
+/* Class = "UITextView"; text = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. "; ObjectID = "ACr-bH-542"; */
+"ACr-bH-542.text" = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. ";
+
+/* Class = "UIBarButtonItem"; title = "Logout"; ObjectID = "D8m-KK-835"; */
+"D8m-KK-835.title" = "Logout";
+
+/* Class = "UILabel"; text = "Привет, юзер"; ObjectID = "Hmg-tt-qZ0"; */
+"Hmg-tt-qZ0.text" = "Привет, юзер";
+
+/* Class = "UITextField"; placeholder = "username"; ObjectID = "IsR-6S-Bxn"; */
+"IsR-6S-Bxn.placeholder" = "username";
+
+/* Class = "UIViewController"; title = "Detail"; ObjectID = "JEX-9P-axG"; */
+"JEX-9P-axG.title" = "Detail";
+
+/* Class = "UILabel"; text = "Start by creating a username and password"; ObjectID = "N89-S8-6tO"; */
+"N89-S8-6tO.text" = "Start by creating a username and password";
+
+/* Class = "UINavigationController"; title = "Master"; ObjectID = "RMx-3f-FxP"; */
+"RMx-3f-FxP.title" = "Master";
+
+/* Class = "UINavigationItem"; title = "All Notes"; ObjectID = "VKx-0t-mqp"; */
+"VKx-0t-mqp.title" = "All Notes";
+
+/* Class = "UIButton"; normalTitle = "Login"; ObjectID = "eRr-Oj-5kq"; */
+"eRr-Oj-5kq.normalTitle" = "Login";
+
+/* Class = "UITextField"; placeholder = "password"; ObjectID = "gcl-FI-3Ka"; */
+"gcl-FI-3Ka.placeholder" = "password";
+
+/* Class = "UINavigationItem"; title = "Note"; ObjectID = "mOI-FS-AaM"; */
+"mOI-FS-AaM.title" = "Note";
+
+/* Class = "UILabel"; text = "Login"; ObjectID = "vJ7-Wh-cd1"; */
+"vJ7-Wh-cd1.text" = "Login";
