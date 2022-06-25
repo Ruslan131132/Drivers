@@ -1,0 +1,26 @@
+{
+    "sites": [
+        {
+            "site": "test1.ru",
+            "login": "3Hqns4ZOwhzxTw==",
+            "password": "3Hqns4ZOwhzxT4deXw=="
+        },
+
+        {
+            "site": "ya.ru",
+            "login": "3Hqns4ZOwhzxT/YVDT7nVg==",
+            "password": "3Hqns4ZOwhzxT+8NAnTwWw=="
+        },
+
+        {
+            "site": "test2.com",
+            "login": "3Hqns4ZOwhzxTw==",
+            "password": "3Hqns4ZOwhzxT4deXw=="
+        },
+        {
+            "site": "mail.ru",
+            "login": "2mqnq7VV5RXjVfYBDXn5DQLY",
+            "password": "2mqnq7VV5RXjVfsNBXzHVg=="
+        }
+    ]
+}
