@@ -1,0 +1,2 @@
+^C:\USERS\ANNA\DESKTOP\ENCLAVE_LAB3\ENCLAVE_LAB3.EDL
+"bin\win32\release\sgx_edger8r.exe" --trusted "C:\Users\Anna\Desktop\Enclave_lab3\Enclave_lab3.edl" --search-path "include"
